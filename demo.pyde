@@ -5,7 +5,7 @@ def setup():
     cirleWidth = 100
     ellipse(100, 150, cirleWidth + 10, cirleWidth + 10)
     ellipse(100, 150, cirleWidth, cirleWidth)
-    someText = "Hello World!"
+    someText = "Hello World!!!"
     text(someText, 10, 250)
     
     
